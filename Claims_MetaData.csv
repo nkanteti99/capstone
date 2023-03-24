@@ -1,0 +1,15 @@
+﻿Column Name,Description
+Pol_Id,Policy Identifer
+State,State where the policy was written
+Policy_Type,Type of the Policy
+Distance_To_Coast,Distance from coastline
+Age_Of_Home,Age of home in Years
+Age_Of_Roof,Age of Roof in years
+Insured_Age,Age of the policy holder
+Age_of_Policy_In_Months,Age of Policy from issuance
+Insurance _Score,Insurance Score of the Policy Holder
+Square_Footage,Square Footage of the home
+Deductible,Deducible on the policy
+Total_Insured_Value,Total value of insurance
+Prior_Claim_Exist,Does the insured have any prior claims
+Claim_Filed,Target Variable
